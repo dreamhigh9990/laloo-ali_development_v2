@@ -1,0 +1,308 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "showSearch": true,
+            "showLogo": true
+        },
+        {
+            "layout": "category",
+            "type": "icon",
+            "wrap": false,
+            "size": 1.0,
+            "radius": 50.0,
+            "line": true,
+            "items": [
+                {
+                    "name": "Προϊόντα",
+                    "title": "Προϊόντα",
+                    "category": 12,
+                    "keepDefaultTitle": true,
+                    "image": "https://i.imgur.com/BpJQMg6.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": true
+                },
+                {
+                    "name": "Brands",
+                    "title": "Brands",
+                    "category": 13,
+                    "keepDefaultTitle": true,
+                    "image": "https://i.imgur.com/WUjTo8U.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": false
+                },
+                {
+                    "name": "Χρωματολόγιο",
+                    "title": "Χρωματολόγιο",
+                    "keepDefaultTitle": true,
+                    "category": "chart_screen",
+                    "image": "https://i.imgur.com/cKquepo.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": true,
+                    "link_api": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=chart&lang=2"
+                },
+                {
+                    "name": "Προσφορές",
+                    "title": "Προσφορές",
+                    "keepDefaultTitle": true,
+                    "category": 160,
+                    "image": "https://i.imgur.com/hGq7LPm.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": false
+                },
+                {
+                    "name": "Ακαδημία",
+                    "title": "Ακαδημία",
+                    "keepDefaultTitle": true,
+                    "category": "links",
+                    "image": "https://i.imgur.com/YLd8q5c.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": false,
+                    "data": [
+                        {
+                            "title": "Combi Manicure",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=combi&lang=2"
+                        },
+                        {
+                            "title": "Russian Manicure μόνο με τροχό",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=russian&lang=2"
+                        },
+                        {
+                            "title": "Gel System Perfection",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=gel&lang=2"
+                        },
+                        {
+                            "title": "Nail Art",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=nail&lang=2"
+                        },
+                        {
+                            "title": "Acrygel System Perfection",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=acrygel&lang=2"
+                        },
+                        {
+                            "title": "Acrylic System",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=acrylic&lang=2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Εταιρεία",
+                    "keepDefaultTitle": true,
+                    "category": "links",
+                    "image": "https://i.imgur.com/MtElag0.png",
+                    "colors": [
+                        "#bb8737",
+                        "#F57F17"
+                    ],
+                    "originalColor": true,
+                    "showText": false,
+                    "data": [
+                        {
+                            "title": "Τρόποι Πληρωμής / Αποστολής",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=terms&lang=2"
+                        },
+                        {
+                            "title": "Οροι και προϋποθέσεις",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=terms&lang=2"
+                        },
+                        {
+                            "title": "Πολιτική Προστασίας Δεδομένων",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=gdpr&lang=2"
+                        },
+                        {
+                            "title": "Πολιτική Επιστροφών",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=return&lang=2"
+                        },
+                        {
+                            "title": "Πολιτική",
+                            "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=return&lang=2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "autoPlay": true,
+            "showNumber": false,
+            "design": "default",
+            "showBackGround": true,
+            "radius": 0.0,
+            "items": [
+                {
+                    "category": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Pearl_Gel_banner.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "category": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Black_Jars_5g%EF%80%A25ml_LalooGR_Home_Page_Banner_01.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "product": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Acrylic_Powder_Glitter_Camouflage_banner.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "category": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/UVLED_BuilderGels_NewLuxuryPackaging_LalooGR_Home_Page_Banner_01.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "category": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/NailPolish_Manikas_LalooGR_Home_Page_Banner_01.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "product": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Cosmetics_Points_LalooGR_Home_Page_Banner__1.jpg",
+                    "padding": 0.0
+                },
+                {
+                    "category": null,
+                    "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Cruelty_Free_and_Vegan_Products_LalooGR_Home_Page_Banner.jpg",
+                    "padding": 0.0
+                }
+            ]
+        },
+        {
+            "layout": "shipping_details"
+        },
+        {
+            "name": "",
+            "rows": 3,
+            "layout": "twoColumn",
+            "isSnapping": false,
+            "category": 172
+        },
+        {
+            "layout": "footer",
+            "items": [
+                {
+                    "image": "https://laloo.gr/img/cms/Laloo_Trio_Solid_Gel_site_COVERaki.jpg",
+                    "height": 250.0
+                },
+                {
+                    "image": "https://laloo.gr/img/cms/Laloo_Base&top_Home%20Page.jpg",
+                    "height": 150.0
+                },
+                {
+                    "image": "https://laloo.gr/img/cms/Laloo_Subscribe_Home%20Page.jpg",
+                    "height": 150.0
+                }
+            ]
+        },
+        {
+            "layout": "about_us",
+            "title": "Who we are!",
+            "subtitle": "Για να βρίσκεσαι εδώ θέλεις σίγουρα να μας γνωρίσεις! Ήρθε η στιγμή να μάθεις περισσότερα για τα καλύτερα ημιμόνιμα βερνίκια που έχεις δοκιμάσει!\n\nΕίμαστε από τις πρώτες ελληνικές εταιρείες, αφού η ιστορία μας ξεκινά το 2013.Διαθέτουμε απόλυτη εξειδίκευση στα προϊόντα ονυχοπλαστικής με σημαντική́ επιρροή́ στην κοινότητα των επαγγελματιών. \n\nΣτη γκάμα των προϊόντων μας θα βρεις εκτός από μια τεράστια συλλογή ημιμόνιμων και απλών βερνικιών, gel χτισίματος, ακρυλικές σκόνες, acrygel, προϊόντα για nail art και φυσικά, εργαλεία, μηχανήματα και αξεσουάρ!\n\nΑποσκοπώντας στην κατανόηση και την κάλυψη των αναγκών όλων των επαγγελματιών του χώρου και με γνώμονα την υψίστη απαίτησηγια ποιοτικά προϊόντα και υπηρεσίες, η υψηλή́ ποιότητα είναι η No.1 προτεραιότητα της Laloo Cosmetics. Με υπερηφάνεια, σεβασμό και αγάπη για τα ζώα φροντίζουμε ώστε η πλειονότητα των προϊόντων μας να είναι Cruelty Free & Vegan πιστοποιημένα από́ Ευρωπαϊκούς φορείς.\n\nΈμπειροι τεχνικοί σύμβουλοι παρέχουν επιλύσεις και συμβουλές σε όλες τις απορίες που αντιμετωπίζει ο τεχνίτης, αποδεικνύοντας έμπρακτα ότι βρισκόμαστε πάντα στο πλάι του τεχνίτη άκρων.Ήρθε η στιγμή να τα δοκιμάσεις! Join us!"
+        },
+        {
+            "layout": "numbers",
+            "title": "Η Laloo σε Αριθμούς!",
+            "back_image": "https://i.ibb.co/BGwGdNW/numbers.jpg",
+            "items": [
+                {
+                    "title": "3000+",
+                    "subtitle": "Προϊόντα"
+                },
+                {
+                    "title": "20000+",
+                    "subtitle": "Πελάτες"
+                },
+                {
+                    "title": "50000+",
+                    "subtitle": "Παραγγελίες"
+                }
+            ]
+        },
+        {
+            "layout": "customer_testimonials",
+            "title": "Σχόλια Πελατών",
+            "items": [
+                {
+                    "title": "Barbara Tsantou",
+                    "subtitle": "Απίστευτη εξυπηρέτηση είχα ένα πρόβλημα με κάποιο προϊόν και όχι απλώς μου το αντικατέστησαν αλλά δεν μου ζήτησαν καν να στείλω το προβληματικό πίσω για τυχόν αμφιβολίες!Η κ.Ειρήνη από το τεχνικό τμήμα απίστευτα ευγενική!Μπράβο στην ομάδα και στην εταιρεία!"
+                },
+                {
+                    "title": "Δήμητρα Μαρία Καλαιτζή ",
+                    "subtitle": "Μπορώ να πώ πως έχω μείνει έκπληκτη...1η φορά βλέπω τέτοια κάλυψη...τα πινέλα υπερτέλεια...οι πάστες καταπληκτικές και οι πλαστελίνες τόσο έυκολες στο δούλεμα..το ακρυτζελ είναι φανταστικό!Ανεπιφύλακτα Laloo!"
+                },
+                {
+                    "title": "Ελένη Τσεμπελή",
+                    "subtitle": "Άμεση Εξυπηρέτηση!Ευχάριστο περιβάλλον.Ευγενικό προσωπικό.Σας ευχαριστώ!"
+                }
+            ]
+        }
+    ],
+    "Setting": {
+        "MainColor": "#D5B552",
+        "FontFamily": "Roboto",
+        "ProductListLayout": "list",
+        "StickyHeader": false
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "home",
+            "pos": 100,
+            "fontFamily": "CupertinoIcons",
+            "key": "p1q235ba14"
+        },
+        {
+            "pos": 200,
+            "layout": "category",
+            "icon": "rectangle_grid_1x2",
+            "fontFamily": "CupertinoIcons",
+            "categoryLayout": "card",
+            "key": "hwu0rkrizt"
+        },
+        {
+            "key": "2reihs4qzc",
+            "icon": "search",
+            "layout": "search",
+            "fontFamily": "CupertinoIcons",
+            "pos": 300,
+            "size": 24
+        },
+        {
+            "pos": 400,
+            "icon": "bag",
+            "layout": "cart",
+            "categoryLayout": "cart",
+            "key": "a2xts0oou6",
+            "fontFamily": "CupertinoIcons"
+        },
+        {
+            "layout": "profile",
+            "fontFamily": "CupertinoIcons",
+            "pos": 500,
+            "key": "69jw5yx12d",
+            "icon": "person"
+        }
+    ],
+    "searchSuggestion": []
+}

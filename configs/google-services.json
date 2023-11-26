@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285001479291",
+    "project_id": "laloo-e3fcf",
+    "storage_bucket": "laloo-e3fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285001479291:android:cb9e5b3740653895f2dede",
+        "android_client_info": {
+          "package_name": "com.bestcybernetics.laloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285001479291-at5vfav47vjlrcbmfguptmai6h9uba1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaLU83FLXUp1CIBZ6Xd_c4jYy4dD_b2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285001479291-at5vfav47vjlrcbmfguptmai6h9uba1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

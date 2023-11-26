@@ -1,0 +1,11 @@
+FLUTTER_PATH=/Users/macbook/flutter_versions/flutter/bin
+PUB_CACHE_BIN=/Users/macbook/flutter_versions/flutter/.pub-cache/bin
+DART_PATH=/Users/macbook/flutter_versions/flutter/bin/cache/dart-sdk
+export PATH=$PATH:$FLUTTER_PATH:$PUB_CACHE_BIN:$DART_PATH
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+export JAVA_HOME=$(/usr/libexec/java_home)
+
+brew uninstall dart
+export PATH=~/bin:$PATHexport PATH=~/bin:$PATHexport PATH=~/bin:$PATH
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"

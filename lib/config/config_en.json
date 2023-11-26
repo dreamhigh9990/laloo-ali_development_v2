@@ -1,0 +1,339 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 50.0,
+      "line": true,
+      "items": [
+        {
+          "name": "Catalogue",
+          "title": "Catalogue",
+          "category": 12,
+          "keepDefaultTitle": true,
+          "image": "https://i.imgur.com/BpJQMg6.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "name": "Brands",
+          "title": "Brands",
+          "category": 13,
+          "keepDefaultTitle": true,
+          "image": "https://i.imgur.com/WUjTo8U.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "name": "Color charts",
+          "title": "Color charts",
+          "keepDefaultTitle": true,
+          "category": "chart_screen",
+          "image": "https://i.imgur.com/cKquepo.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": true,
+          "link_api": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=chart&lang=1"
+        },
+        {
+          "name": "Sales",
+          "title": "Sales",
+          "keepDefaultTitle": true,
+          "category": 160,
+          "image": "https://i.imgur.com/hGq7LPm.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": false
+        },
+        {
+          "name": "Academy",
+          "title": "Academy",
+          "keepDefaultTitle": true,
+          "category": "links",
+          "image": "https://i.imgur.com/YLd8q5c.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": false,
+          "data": [
+            {
+              "title": "Group/Individual Seminars",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=beginner&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Combi Manicure",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=combi&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Russian drill-only manicure",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=russian&lang=1",
+              "webview": false
+            },
+            {
+              "title": "GEL SYSTEM PERFECTION",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=gel&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Nail Art",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=nail&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Acrygel System Perfection",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=acrygel&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Acrylic System",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=acrylic&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Beginner Courses",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=beginner&lang=1",
+              "webview": false
+            }
+          ]
+        },
+        {
+          "title": "Company",
+          "keepDefaultTitle": true,
+          "category": "links",
+          "image": "https://i.imgur.com/MtElag0.png",
+          "colors": [
+            "#bb8737",
+            "#F57F17"
+          ],
+          "originalColor": true,
+          "showText": false,
+          "data": [
+            {
+              "title": "Payment/Shipping terms",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=terms&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Terms and Conditions",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=terms&lang=1",
+              "webview": false
+            },
+            {
+              "title": "GDPR",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=gdpr&lang=2",
+              "webview": false
+            },
+            {
+              "title": "Return Policy",
+              "link": "https://laloo.gr/bridge.php?u=8f99e1315fcc7875325149dda085c504f&action=return&lang=1",
+              "webview": false
+            },
+            {
+              "title": "Beginner Courses",
+              "link": "https://laloo.gr/en/content/19-seminaria_gia_arxarious",
+              "webview": true
+            },
+            {
+              "title": "July seminars",
+              "link": "https://laloo.gr/en/content/31-programma-seminarion",
+              "webview": true
+            },
+            {
+              "title": "Shopping Points",
+              "link": "https://laloo.gr/en/content/17-points",
+              "webview": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Pearl_Gel_banner.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Black_Jars_5g%EF%80%A25ml_LalooGR_Home_Page_Banner_01.jpg",
+          "padding": 0.0
+        },
+        {
+          "product": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Acrylic_Powder_Glitter_Camouflage_banner.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/UVLED_BuilderGels_NewLuxuryPackaging_LalooGR_Home_Page_Banner_01.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/NailPolish_Manikas_LalooGR_Home_Page_Banner_01.jpg",
+          "padding": 0.0
+        },
+        {
+          "product": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Cosmetics_Points_LalooGR_Home_Page_Banner__1.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": null,
+          "image": "https://laloo.gr/modules/revsliderprestashop/uploads/Laloo_Cruelty_Free_and_Vegan_Products_LalooGR_Home_Page_Banner.jpg",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "layout": "shipping_details"
+    },
+    {
+      "name": "",
+      "rows": 3,
+      "layout": "twoColumn",
+      "isSnapping": false,
+      "category": 172
+    },
+    {
+      "layout": "footer",
+      "items": [
+        {
+          "image": "https://laloo.gr/img/cms/Laloo_Trio_Solid_Gel_site_COVERaki.jpg",
+          "height": 250.0
+        },
+        {
+          "image": "https://laloo.gr/img/cms/Laloo_Base&top_Home%20Page.jpg",
+          "height": 150.0
+        },
+        {
+          "image": "https://laloo.gr/img/cms/Laloo_Subscribe_Home%20Page.jpg",
+          "height": 150.0
+        }
+      ]
+    },
+    {
+      "layout": "about_us",
+      "title": "Who we are!",
+      "subtitle": "Laloo cosmetics is a well established company that sells a variety of nail and beauty products.\n\nWe are also exclusive distributors of many Companies that are based all over the world such as Famous Names LTD (USA),\nBrazzcare(Portugal), Staleks Pro (Ukraine) and others.\n\nWe also provide a full support for your needs with a large catalogue that includes:\n\n *gel polish,Builder gel,Acrylic Kit,Consumables.\n\n *building your own shop/salon from scratch (Includes planning,designing and construction).\n\n*best Customer Service worldwide with professional nail technitians.\n\n*Laloo Academy is one of the newset projects that includes nail seminars as well as amateur training."
+    },
+    {
+      "layout": "numbers",
+      "title": "Our Numbers",
+      "back_image": "https://i.ibb.co/BGwGdNW/numbers.jpg",
+      "items": [
+        {
+          "title": "3000+",
+          "subtitle": "Products"
+        },
+        {
+          "title": "20000+",
+          "subtitle": "Customers"
+        },
+        {
+          "title": "50000+",
+          "subtitle": "Orders"
+        }
+      ]
+    },
+    {
+      "layout": "customer_testimonials",
+      "title": "Cutomers Testimonials",
+      "items": [
+        {
+          "title": "Mairy\nNail Artist",
+          "subtitle": "Super customer service, all of the products are amazing!"
+        },
+        {
+          "title": "Katerina\nNail Expert",
+          "subtitle": "I loved the new Acrygel for the first time I appliet it to one of my clients!"
+        },
+        {
+          "title": "Demy\nNail Tech",
+          "subtitle": "The color are lovely! I want to purchase all of them"
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "#D5B552",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+    "StickyHeader": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": []
+}
